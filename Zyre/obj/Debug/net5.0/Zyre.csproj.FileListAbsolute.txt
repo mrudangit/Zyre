@@ -1,0 +1,12 @@
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.csproj.AssemblyReference.cache
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.AssemblyInfoInputs.cache
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.AssemblyInfo.cs
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.csproj.CoreCompileInputs.cache
+C:\Users\mruda\source\repos\Zyre\Zyre\bin\Debug\net5.0\Zyre.deps.json
+C:\Users\mruda\source\repos\Zyre\Zyre\bin\Debug\net5.0\Zyre.dll
+C:\Users\mruda\source\repos\Zyre\Zyre\bin\Debug\net5.0\Zyre.pdb
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.dll
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\refint\Zyre.dll
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\Zyre.pdb
+C:\Users\mruda\source\repos\Zyre\Zyre\obj\Debug\net5.0\ref\Zyre.dll
